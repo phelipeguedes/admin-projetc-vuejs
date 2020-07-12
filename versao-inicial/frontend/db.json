@@ -1,0 +1,92 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Phelipe Guedes",
+      "email": "phelipe.guedes@hotmail.com",
+      "admin": "sim"
+    },
+    {
+      "id": 2,
+      "name": "Maria Garcia",
+      "email": "maria.garcia@outlook.com",
+      "admin": "nao"
+    },
+    {
+      "id": 3,
+      "name": "Paula Costa",
+      "email": "paula_costa@gmail.com",
+      "admin": "nao"
+    },
+    {
+      "id": 4,
+      "name": "Gabriela Fernandes",
+      "email": "gabriela_fernandes@email.com",
+      "admin": "nao"
+    },
+    {
+      "id": 5,
+      "name": "Juliana Matos",
+      "email": "juliana.matos@gmail.com",
+      "admin": "nao"
+    },
+    {
+      "name": "Sabrina Freitas",
+      "password": "123",
+      "email": "sabrina_freitas@gmail.com",
+      "confirmPassword": "123",
+      "id": 6
+    },
+    {
+      "name": "Camila Martins",
+      "password": "321",
+      "email": "camila.martins@outlook.com",
+      "confirmPassword": "321",
+      "id": 8
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Web Moderno",
+      "parentID": 1
+    },
+    {
+      "id": 2,
+      "name": "CSS",
+      "parentID": 2
+    },
+    {
+      "id": 3,
+      "name": "JS",
+      "parentID": 3
+    },
+    {
+      "id": 4,
+      "name": "VueJS",
+      "parentID": 4
+    }
+  ],
+  "articles": [
+    {
+      "id": 1,
+      "name": "VueJS",
+      "description": "Sobre o VueJS",
+      "imgURL": "...",
+      "categoryID": 4,
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "name": "bbbbbbbbbbbbb",
+      "description": "blablabla",
+      "imgURL": "..."
+    },
+    {
+      "id": 3,
+      "name": "ccccccccccccc",
+      "description": "cacacaca",
+      "imgURL": "..."
+    }
+  ]
+}
