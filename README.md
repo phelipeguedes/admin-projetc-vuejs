@@ -1,24 +1,4 @@
-# knowlegde2
+# admin-projetc-vuejs
+Sistema simples para o gerenciamento de usuários, artigos e categorias com VueJS.
+Realizado para dar início aos estudos com o framework VueJS.
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
